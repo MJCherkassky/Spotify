@@ -1,6 +1,7 @@
 # Background
 
 For this project, I attempt to extract my own user data using Spotify's API. This is a project in several parts:
+    
     1. Create an application that reads my "recently played" items on Spotify. The application stores the following data:
         a. Title
         b. Artist
