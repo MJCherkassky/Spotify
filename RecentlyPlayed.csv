@@ -1,101 +1,51 @@
 ,Songs,Artists,song_id,artist_id,Release_Date,Album_Art,Popularity,Song_Duration (ms)
-0,Sober,Mahalia,3C57ewlHARCVqeH3KiYkma,16rCzZOMQX7P8Kmn5YKexI,2017-07-07,https://i.scdn.co/image/ab67616d0000b273020edd1e133d1a299e012c0b,64,266287
-1,Slide,H.E.R.,2rTnVB1bvwxHtaIl4uVu7f,3Y7RZ31TRPVadSFVy1o8os,2019-09-27,https://i.scdn.co/image/ab67616d0000b2735cba0b7502c08a5077c5a3f9,78,238321
-2,Made It,Teyana Taylor,5aI2VUmejj1Ywzj0tQLYH6,4ULO7IGI3M2bo0Ap7B9h8a,2020-06-19,https://i.scdn.co/image/ab67616d0000b2733c1d50d3467be460844da7c1,55,198552
-3,BMO,Ari Lennox,7Ffgp7DIow5wECYQyzEiTq,1vaQ6v3pOFxAIrFoPrAcom,2019-05-07,https://i.scdn.co/image/ab67616d0000b273f1a1bdd330659e602cb927ec,66,146914
-4,Heatwave (feat. 6LACK),Mereba,228UGKVMN5uLgmMSi5edOZ,294lNTPZfdqyzt8qnxmFiL,2019-02-27,https://i.scdn.co/image/ab67616d0000b273bb2dcdded318b31909aef025,55,242866
-5,Can I (feat. Tory Lanez),Kehlani,0uDdI4fAXCuNhQbmxENdsO,0cGUm45nv7Z6M6qdXYQGTX,2020-05-08,https://i.scdn.co/image/ab67616d0000b273d8fcc55c243a281a722aa4b3,76,179896
-6,Die A Little Bit - Remix,Tinashe,0fGLLudXitALX8PnUqOzxT,0NIIxcxNHmOoyBx03SfTCD,2020-07-03,https://i.scdn.co/image/ab67616d0000b2732a8b67e4edd8441ad6343604,60,223036
-7,Chocolate. (ft. Ari Lennox),Kiana Ledé,1b0ZeVYPZCDaAk4pT42pxy,7jZMxhsB8djyIbYmoiJSTs,2020-04-03,https://i.scdn.co/image/ab67616d0000b27387edea951eda6b132e3b677f,67,186120
-8,BRB,Mahalia,1KN2z32nlbkmh0I8XXlNWD,16rCzZOMQX7P8Kmn5YKexI,2020-05-01,https://i.scdn.co/image/ab67616d0000b2731f8129e7f7b9456b4f54cfbe,58,210226
-9,Late Night,Lucky Daye,1Fwppfa2qKDAETKveNFsHR,5Vuvs6Py2JRU7WiFDVsI7J,2019-05-24,https://i.scdn.co/image/ab67616d0000b273fe1c22315738dd6e313e400f,60,237517
-10,Come Back To Me (feat. Junie & Rick Ross),Teyana Taylor,4JoapqwIRFlUgX0lCpoHFz,4ULO7IGI3M2bo0Ap7B9h8a,2020-06-19,https://i.scdn.co/image/ab67616d0000b2733c1d50d3467be460844da7c1,57,249196
-11,Night Drive,Ari Lennox,3VeuvRWfJLSOzeVPrgi5MR,1vaQ6v3pOFxAIrFoPrAcom,2016-10-21,https://i.scdn.co/image/ab67616d0000b27336eac825e3a4cbcb458a18f8,60,150133
-12,Rockets (feat. Moe Moks),LION BABE,5LWKsMeXaYBoKzCHk8syQy,4VA3EAvncrTucjTmrvd4GE,2017-02-07,https://i.scdn.co/image/ab67616d0000b27343d74290687f10fa04e781ca,57,217386
-13,Love U Better,Victoria Monét,6MoedmXms6oNKZTDfEHTbm,63XBtGSEZINSyXylZxEUbv,2018-09-28,https://i.scdn.co/image/ab67616d0000b273a6fd5d2524a5bd157a7c93f3,49,231717
-14,MADE 4 U,Leven Kali,3pQRslIZ0kdIb9rzPqSmkx,5YZ5AExR68U3ZblH6HcO6B,2020-05-01,https://i.scdn.co/image/ab67616d0000b273127b3fbac5e1ad804e171888,55,194766
-15,Racks (feat. YBN Cordae),H.E.R.,2rTjKV5wbfROo0nOzO1wHq,3Y7RZ31TRPVadSFVy1o8os,2019-06-25,https://i.scdn.co/image/ab67616d0000b273181c5cb22852fb011ae3289b,55,222249
-16,Bouncin (feat. Offset),Kiana Ledé,1YWnrz4pqjtt2zlEOuDIFg,7jZMxhsB8djyIbYmoiJSTs,2019-06-07,https://i.scdn.co/image/ab67616d0000b273c57307cd2b9d78b8b02f0c70,62,172493
-17,Lowkey (feat. Erykah Badu),Teyana Taylor,125kmhAUbQqM4zKOS3L7No,4ULO7IGI3M2bo0Ap7B9h8a,2020-06-19,https://i.scdn.co/image/ab67616d0000b2733c1d50d3467be460844da7c1,60,257789
-18,The Glow,Victoria Monét,6iT0RT8KBWsaYOHGPJchGS,63XBtGSEZINSyXylZxEUbv,2018-09-21,https://i.scdn.co/image/ab67616d0000b2736f3cc77937e77b0d012949f3,41,177560
-19,What You Did (feat. Ella Mai),Mahalia,2B7UWqNqKgPVGQQ6FXn2PP,16rCzZOMQX7P8Kmn5YKexI,2019-09-06,https://i.scdn.co/image/ab67616d0000b2735a608d7d78c49723499b715d,72,206946
-20,Broke (feat. JID),Ari Lennox,3UqLP9Cq1DNryqu9scjak0,1vaQ6v3pOFxAIrFoPrAcom,2019-05-07,https://i.scdn.co/image/ab67616d0000b273f1a1bdd330659e602cb927ec,57,242000
-21,Buying Time,Lucky Daye,3Yt0liwMgB3I0xv3FQBDzI,5Vuvs6Py2JRU7WiFDVsI7J,2019-09-18,https://i.scdn.co/image/ab67616d0000b273743fa009bdf097d15c2ddd60,55,236949
-22,Carried Away,H.E.R.,7dA5TuziQNiseDqFTyVWzi,3Y7RZ31TRPVadSFVy1o8os,2019-08-30,https://i.scdn.co/image/ab67616d0000b2732066a381ebbbb1f8312764e7,55,221973
-23,New Love,Victoria Monét,1KARZZIAZxCCiUpLD7Wv4D,63XBtGSEZINSyXylZxEUbv,2018-09-28,https://i.scdn.co/image/ab67616d0000b273a6fd5d2524a5bd157a7c93f3,46,211408
-24,Do U Wrong (feat. Syd),Leven Kali,7qFhAfUbytgPIVz4TYb3hT,5YZ5AExR68U3ZblH6HcO6B,2019-05-10,https://i.scdn.co/image/ab67616d0000b273cfb937f62fd28b050abe95ca,64,280266
-25,Treat Me Like Fire,LION BABE,3XRosKfSgFSDIb6YVpApIl,4VA3EAvncrTucjTmrvd4GE,2016-01-22,https://i.scdn.co/image/ab67616d0000b2736454cc79bc32f309749b019b,55,250706
-26,Rose In Harlem,Teyana Taylor,38HcgcQC4suvti0Sa0e5yc,4ULO7IGI3M2bo0Ap7B9h8a,2018-06-23,https://i.scdn.co/image/ab67616d0000b273abca6b34e370af95f3b926bd,63,222828
-27,Shea Butter Baby (with J. Cole),Ari Lennox,5BOBHIBuzvQuIYL1E1nDzl,1vaQ6v3pOFxAIrFoPrAcom,2019-05-07,https://i.scdn.co/image/ab67616d0000b273f1a1bdd330659e602cb927ec,68,211610
-28,Next Thing - Bet You Didn't Know,Victoria Monét,2aJg6RACVaIfmTqjimfO4r,63XBtGSEZINSyXylZxEUbv,2018-02-23,https://i.scdn.co/image/ab67616d0000b273cfb79a6db4828832b388047c,28,179644
-29,Sandstorm (feat. JID),Mereba,1NlWBpNYAnFT7gMGyC0Y1M,294lNTPZfdqyzt8qnxmFiL,2019-02-27,https://i.scdn.co/image/ab67616d0000b273bb2dcdded318b31909aef025,62,179026
-30,Sauce,Ella Mai,5VqKdNoamMXrmRmqVmi9ke,7HkdQ0gt53LP4zmHsL0nap,2018-10-12,https://i.scdn.co/image/ab67616d0000b2737ce0faf0620ab9c1779e1fbf,58,184958
-31,Hate The Club (feat. Masego),Kehlani,0QUbiLQySWPq5Lh3f7A9bN,0cGUm45nv7Z6M6qdXYQGTX,2020-05-08,https://i.scdn.co/image/ab67616d0000b273d8fcc55c243a281a722aa4b3,65,278715
-32,Too Much,Ro James,706gnbpwqU3d40an3oxMWm,7r2oyrNc0YjSC7hZL87V0Y,2020-05-21,https://i.scdn.co/image/ab67616d0000b273146b568229ab94b101bf26df,59,198496
-33,When You Say You Love Me,Victoria Monét,3dhYoH1HqEHdEOAPf92M5w,63XBtGSEZINSyXylZxEUbv,2018-09-28,https://i.scdn.co/image/ab67616d0000b273a6fd5d2524a5bd157a7c93f3,35,181733
-34,Smile,Leven Kali,5Wbjjde5ez7sx22OtmrXKV,5YZ5AExR68U3ZblH6HcO6B,2017-05-25,https://i.scdn.co/image/ab67616d0000b2736b7f9b18499a5ba886dd8baf,57,218050
-35,Issues/Hold On,Teyana Taylor,0bxmVPKnEopTyuMMkaTvUb,4ULO7IGI3M2bo0Ap7B9h8a,2018-06-23,https://i.scdn.co/image/ab67616d0000b273abca6b34e370af95f3b926bd,66,185979
-36,Roll Some Mo,Lucky Daye,1sQBPGypjSgEgJZvD8u8ty,5Vuvs6Py2JRU7WiFDVsI7J,2019-05-24,https://i.scdn.co/image/ab67616d0000b273fe1c22315738dd6e313e400f,64,292884
-37,Backseat,Ari Lennox,1eu6vM3Q8wYKGYZCn26uMb,1vaQ6v3pOFxAIrFoPrAcom,2016-10-21,https://i.scdn.co/image/ab67616d0000b27336eac825e3a4cbcb458a18f8,54,219133
-38,Moment,Victoria Monét,0gpYL1he4OGJxv42tT747l,63XBtGSEZINSyXylZxEUbv,2020-02-06,https://i.scdn.co/image/ab67616d0000b2730099d66393f7b1af78e43a3c,63,179413
-39,Play Too Much,Kyle Dion,11xILcyUmIjr2XpM6mpEvA,5qfkUSH3ip5dD2eEPhjkT3,2020-02-21,https://i.scdn.co/image/ab67616d0000b273d09d6d9685b7fbba87217cfa,58,197205
-40,Black Truck,Mereba,5EZhrCXl5WOerBG2lrFCqw,294lNTPZfdqyzt8qnxmFiL,2018-02-09,https://i.scdn.co/image/ab67616d0000b2730f7028b44c618f8490d42c13,57,254426
-41,Do To Me,H.E.R.,0CmQgwV3Bmzh9nZb9TNVEI,3Y7RZ31TRPVadSFVy1o8os,2020-07-08,https://i.scdn.co/image/ab67616d0000b27333653db5754cef425ea7cf7b,71,225103
-42,Good & Plenty,Alex Isley,1VAKnb1btGrQXcVZVSRkPe,7E2ioKxoxI2J94tUkIx6As,2020-07-17,https://i.scdn.co/image/ab67616d0000b273d577928f641005ea1f9b44f5,64,204705
-43,Ass Like That,Victoria Monét,6fT7QIf55thVWCZyEnaHk0,63XBtGSEZINSyXylZxEUbv,2019-10-22,https://i.scdn.co/image/ab67616d0000b273e13e41d4bfa5c7739d9b0451,66,220207
-44,HOMEGIRL - BONUS TRACK,Leven Kali,5M8VxQwrf56IrtRLoXeFW4,5YZ5AExR68U3ZblH6HcO6B,2020-05-01,https://i.scdn.co/image/ab67616d0000b273127b3fbac5e1ad804e171888,59,286073
-45,Real Games,Lucky Daye,4c3d0xt7rUFDV7EnnRYi4i,5Vuvs6Py2JRU7WiFDVsI7J,2019-05-24,https://i.scdn.co/image/ab67616d0000b273fe1c22315738dd6e313e400f,57,331307
-46,Whipped Cream,Ari Lennox,56IszkEOG5lFShWevvEH3R,1vaQ6v3pOFxAIrFoPrAcom,2019-05-07,https://i.scdn.co/image/ab67616d0000b273f1a1bdd330659e602cb927ec,63,288531
-47,Stickin' (feat. Masego & VanJess),Sinead Harnett,24KUvSg9QsX6FWsOmN0ZxP,6tUJpYN2aYiXbzAcg0pIOo,2020-07-10,https://i.scdn.co/image/ab67616d0000b2732c38b21f31e0c52db1407fb6,64,188805
-48,Experience,Victoria Monét,0hRRNHeSZv2x6pHCcXPAct,63XBtGSEZINSyXylZxEUbv,2020-06-19,https://i.scdn.co/image/ab67616d0000b27392831b64fb790c59a9a4d4a6,72,176773
-49,I Can't Breathe,H.E.R.,4CPszpSnlbgnQLIQYyzIR2,3Y7RZ31TRPVadSFVy1o8os,2020-06-19,https://i.scdn.co/image/ab67616d0000b27335d1bc77d8a56df2c4b1cc6c,67,287321
-50,Happy Without Me (feat. Joey Bada$$),Chloe x Halle,1mQI744KrltnCU798zIGEe,0AsThoR4KZSVktALiNcQwW,2018-03-23,https://i.scdn.co/image/ab67616d0000b273c802775235748dd21e1c6b12,58,206946
-51,Real Games,Lucky Daye,4c3d0xt7rUFDV7EnnRYi4i,5Vuvs6Py2JRU7WiFDVsI7J,2019-05-24,https://i.scdn.co/image/ab67616d0000b273fe1c22315738dd6e313e400f,57,331307
-52,Sober,Mahalia,3C57ewlHARCVqeH3KiYkma,16rCzZOMQX7P8Kmn5YKexI,2017-07-07,https://i.scdn.co/image/ab67616d0000b273020edd1e133d1a299e012c0b,64,266287
-53,Slide,H.E.R.,2rTnVB1bvwxHtaIl4uVu7f,3Y7RZ31TRPVadSFVy1o8os,2019-09-27,https://i.scdn.co/image/ab67616d0000b2735cba0b7502c08a5077c5a3f9,78,238321
-54,Made It,Teyana Taylor,5aI2VUmejj1Ywzj0tQLYH6,4ULO7IGI3M2bo0Ap7B9h8a,2020-06-19,https://i.scdn.co/image/ab67616d0000b2733c1d50d3467be460844da7c1,55,198552
-55,BMO,Ari Lennox,7Ffgp7DIow5wECYQyzEiTq,1vaQ6v3pOFxAIrFoPrAcom,2019-05-07,https://i.scdn.co/image/ab67616d0000b273f1a1bdd330659e602cb927ec,66,146914
-56,Heatwave (feat. 6LACK),Mereba,228UGKVMN5uLgmMSi5edOZ,294lNTPZfdqyzt8qnxmFiL,2019-02-27,https://i.scdn.co/image/ab67616d0000b273bb2dcdded318b31909aef025,55,242866
-57,Can I (feat. Tory Lanez),Kehlani,0uDdI4fAXCuNhQbmxENdsO,0cGUm45nv7Z6M6qdXYQGTX,2020-05-08,https://i.scdn.co/image/ab67616d0000b273d8fcc55c243a281a722aa4b3,76,179896
-58,Die A Little Bit - Remix,Tinashe,0fGLLudXitALX8PnUqOzxT,0NIIxcxNHmOoyBx03SfTCD,2020-07-03,https://i.scdn.co/image/ab67616d0000b2732a8b67e4edd8441ad6343604,60,223036
-59,Chocolate. (ft. Ari Lennox),Kiana Ledé,1b0ZeVYPZCDaAk4pT42pxy,7jZMxhsB8djyIbYmoiJSTs,2020-04-03,https://i.scdn.co/image/ab67616d0000b27387edea951eda6b132e3b677f,67,186120
-60,BRB,Mahalia,1KN2z32nlbkmh0I8XXlNWD,16rCzZOMQX7P8Kmn5YKexI,2020-05-01,https://i.scdn.co/image/ab67616d0000b2731f8129e7f7b9456b4f54cfbe,58,210226
-61,Late Night,Lucky Daye,1Fwppfa2qKDAETKveNFsHR,5Vuvs6Py2JRU7WiFDVsI7J,2019-05-24,https://i.scdn.co/image/ab67616d0000b273fe1c22315738dd6e313e400f,60,237517
-62,Come Back To Me (feat. Junie & Rick Ross),Teyana Taylor,4JoapqwIRFlUgX0lCpoHFz,4ULO7IGI3M2bo0Ap7B9h8a,2020-06-19,https://i.scdn.co/image/ab67616d0000b2733c1d50d3467be460844da7c1,57,249196
-63,Night Drive,Ari Lennox,3VeuvRWfJLSOzeVPrgi5MR,1vaQ6v3pOFxAIrFoPrAcom,2016-10-21,https://i.scdn.co/image/ab67616d0000b27336eac825e3a4cbcb458a18f8,60,150133
-64,Rockets (feat. Moe Moks),LION BABE,5LWKsMeXaYBoKzCHk8syQy,4VA3EAvncrTucjTmrvd4GE,2017-02-07,https://i.scdn.co/image/ab67616d0000b27343d74290687f10fa04e781ca,57,217386
-65,Love U Better,Victoria Monét,6MoedmXms6oNKZTDfEHTbm,63XBtGSEZINSyXylZxEUbv,2018-09-28,https://i.scdn.co/image/ab67616d0000b273a6fd5d2524a5bd157a7c93f3,49,231717
-66,MADE 4 U,Leven Kali,3pQRslIZ0kdIb9rzPqSmkx,5YZ5AExR68U3ZblH6HcO6B,2020-05-01,https://i.scdn.co/image/ab67616d0000b273127b3fbac5e1ad804e171888,55,194766
-67,Racks (feat. YBN Cordae),H.E.R.,2rTjKV5wbfROo0nOzO1wHq,3Y7RZ31TRPVadSFVy1o8os,2019-06-25,https://i.scdn.co/image/ab67616d0000b273181c5cb22852fb011ae3289b,55,222249
-68,Bouncin (feat. Offset),Kiana Ledé,1YWnrz4pqjtt2zlEOuDIFg,7jZMxhsB8djyIbYmoiJSTs,2019-06-07,https://i.scdn.co/image/ab67616d0000b273c57307cd2b9d78b8b02f0c70,62,172493
-69,Lowkey (feat. Erykah Badu),Teyana Taylor,125kmhAUbQqM4zKOS3L7No,4ULO7IGI3M2bo0Ap7B9h8a,2020-06-19,https://i.scdn.co/image/ab67616d0000b2733c1d50d3467be460844da7c1,60,257789
-70,The Glow,Victoria Monét,6iT0RT8KBWsaYOHGPJchGS,63XBtGSEZINSyXylZxEUbv,2018-09-21,https://i.scdn.co/image/ab67616d0000b2736f3cc77937e77b0d012949f3,41,177560
-71,What You Did (feat. Ella Mai),Mahalia,2B7UWqNqKgPVGQQ6FXn2PP,16rCzZOMQX7P8Kmn5YKexI,2019-09-06,https://i.scdn.co/image/ab67616d0000b2735a608d7d78c49723499b715d,72,206946
-72,Broke (feat. JID),Ari Lennox,3UqLP9Cq1DNryqu9scjak0,1vaQ6v3pOFxAIrFoPrAcom,2019-05-07,https://i.scdn.co/image/ab67616d0000b273f1a1bdd330659e602cb927ec,57,242000
-73,Buying Time,Lucky Daye,3Yt0liwMgB3I0xv3FQBDzI,5Vuvs6Py2JRU7WiFDVsI7J,2019-09-18,https://i.scdn.co/image/ab67616d0000b273743fa009bdf097d15c2ddd60,55,236949
-74,Carried Away,H.E.R.,7dA5TuziQNiseDqFTyVWzi,3Y7RZ31TRPVadSFVy1o8os,2019-08-30,https://i.scdn.co/image/ab67616d0000b2732066a381ebbbb1f8312764e7,55,221973
-75,New Love,Victoria Monét,1KARZZIAZxCCiUpLD7Wv4D,63XBtGSEZINSyXylZxEUbv,2018-09-28,https://i.scdn.co/image/ab67616d0000b273a6fd5d2524a5bd157a7c93f3,46,211408
-76,Do U Wrong (feat. Syd),Leven Kali,7qFhAfUbytgPIVz4TYb3hT,5YZ5AExR68U3ZblH6HcO6B,2019-05-10,https://i.scdn.co/image/ab67616d0000b273cfb937f62fd28b050abe95ca,64,280266
-77,Treat Me Like Fire,LION BABE,3XRosKfSgFSDIb6YVpApIl,4VA3EAvncrTucjTmrvd4GE,2016-01-22,https://i.scdn.co/image/ab67616d0000b2736454cc79bc32f309749b019b,55,250706
-78,Rose In Harlem,Teyana Taylor,38HcgcQC4suvti0Sa0e5yc,4ULO7IGI3M2bo0Ap7B9h8a,2018-06-23,https://i.scdn.co/image/ab67616d0000b273abca6b34e370af95f3b926bd,63,222828
-79,Shea Butter Baby (with J. Cole),Ari Lennox,5BOBHIBuzvQuIYL1E1nDzl,1vaQ6v3pOFxAIrFoPrAcom,2019-05-07,https://i.scdn.co/image/ab67616d0000b273f1a1bdd330659e602cb927ec,68,211610
-80,Next Thing - Bet You Didn't Know,Victoria Monét,2aJg6RACVaIfmTqjimfO4r,63XBtGSEZINSyXylZxEUbv,2018-02-23,https://i.scdn.co/image/ab67616d0000b273cfb79a6db4828832b388047c,28,179644
-81,Sandstorm (feat. JID),Mereba,1NlWBpNYAnFT7gMGyC0Y1M,294lNTPZfdqyzt8qnxmFiL,2019-02-27,https://i.scdn.co/image/ab67616d0000b273bb2dcdded318b31909aef025,62,179026
-82,Sauce,Ella Mai,5VqKdNoamMXrmRmqVmi9ke,7HkdQ0gt53LP4zmHsL0nap,2018-10-12,https://i.scdn.co/image/ab67616d0000b2737ce0faf0620ab9c1779e1fbf,58,184958
-83,Hate The Club (feat. Masego),Kehlani,0QUbiLQySWPq5Lh3f7A9bN,0cGUm45nv7Z6M6qdXYQGTX,2020-05-08,https://i.scdn.co/image/ab67616d0000b273d8fcc55c243a281a722aa4b3,65,278715
-84,Too Much,Ro James,706gnbpwqU3d40an3oxMWm,7r2oyrNc0YjSC7hZL87V0Y,2020-05-21,https://i.scdn.co/image/ab67616d0000b273146b568229ab94b101bf26df,59,198496
-85,When You Say You Love Me,Victoria Monét,3dhYoH1HqEHdEOAPf92M5w,63XBtGSEZINSyXylZxEUbv,2018-09-28,https://i.scdn.co/image/ab67616d0000b273a6fd5d2524a5bd157a7c93f3,35,181733
-86,Smile,Leven Kali,5Wbjjde5ez7sx22OtmrXKV,5YZ5AExR68U3ZblH6HcO6B,2017-05-25,https://i.scdn.co/image/ab67616d0000b2736b7f9b18499a5ba886dd8baf,57,218050
-87,Issues/Hold On,Teyana Taylor,0bxmVPKnEopTyuMMkaTvUb,4ULO7IGI3M2bo0Ap7B9h8a,2018-06-23,https://i.scdn.co/image/ab67616d0000b273abca6b34e370af95f3b926bd,66,185979
-88,Roll Some Mo,Lucky Daye,1sQBPGypjSgEgJZvD8u8ty,5Vuvs6Py2JRU7WiFDVsI7J,2019-05-24,https://i.scdn.co/image/ab67616d0000b273fe1c22315738dd6e313e400f,64,292884
-89,Backseat,Ari Lennox,1eu6vM3Q8wYKGYZCn26uMb,1vaQ6v3pOFxAIrFoPrAcom,2016-10-21,https://i.scdn.co/image/ab67616d0000b27336eac825e3a4cbcb458a18f8,54,219133
-90,Moment,Victoria Monét,0gpYL1he4OGJxv42tT747l,63XBtGSEZINSyXylZxEUbv,2020-02-06,https://i.scdn.co/image/ab67616d0000b2730099d66393f7b1af78e43a3c,63,179413
-91,Play Too Much,Kyle Dion,11xILcyUmIjr2XpM6mpEvA,5qfkUSH3ip5dD2eEPhjkT3,2020-02-21,https://i.scdn.co/image/ab67616d0000b273d09d6d9685b7fbba87217cfa,58,197205
-92,Black Truck,Mereba,5EZhrCXl5WOerBG2lrFCqw,294lNTPZfdqyzt8qnxmFiL,2018-02-09,https://i.scdn.co/image/ab67616d0000b2730f7028b44c618f8490d42c13,57,254426
-93,Do To Me,H.E.R.,0CmQgwV3Bmzh9nZb9TNVEI,3Y7RZ31TRPVadSFVy1o8os,2020-07-08,https://i.scdn.co/image/ab67616d0000b27333653db5754cef425ea7cf7b,71,225103
-94,Good & Plenty,Alex Isley,1VAKnb1btGrQXcVZVSRkPe,7E2ioKxoxI2J94tUkIx6As,2020-07-17,https://i.scdn.co/image/ab67616d0000b273d577928f641005ea1f9b44f5,64,204705
-95,Ass Like That,Victoria Monét,6fT7QIf55thVWCZyEnaHk0,63XBtGSEZINSyXylZxEUbv,2019-10-22,https://i.scdn.co/image/ab67616d0000b273e13e41d4bfa5c7739d9b0451,66,220207
-96,HOMEGIRL - BONUS TRACK,Leven Kali,5M8VxQwrf56IrtRLoXeFW4,5YZ5AExR68U3ZblH6HcO6B,2020-05-01,https://i.scdn.co/image/ab67616d0000b273127b3fbac5e1ad804e171888,59,286073
-97,Real Games,Lucky Daye,4c3d0xt7rUFDV7EnnRYi4i,5Vuvs6Py2JRU7WiFDVsI7J,2019-05-24,https://i.scdn.co/image/ab67616d0000b273fe1c22315738dd6e313e400f,57,331307
-98,Whipped Cream,Ari Lennox,56IszkEOG5lFShWevvEH3R,1vaQ6v3pOFxAIrFoPrAcom,2019-05-07,https://i.scdn.co/image/ab67616d0000b273f1a1bdd330659e602cb927ec,63,288531
-99,Stickin' (feat. Masego & VanJess),Sinead Harnett,24KUvSg9QsX6FWsOmN0ZxP,6tUJpYN2aYiXbzAcg0pIOo,2020-07-10,https://i.scdn.co/image/ab67616d0000b2732c38b21f31e0c52db1407fb6,64,188805
+0,Exit,Alfa Mist,4UljFuW5rHiRAcV2KpQZjo,2i1CPudyCUjL50Wqjv8AMI,2018-10-07,https://i.scdn.co/image/ab67616d0000b273390335f105ab846f13cd87bc,30,289722
+1,Cookie Chips,Rejjie Snow,388bpvPl0s0VxtZorgBFtO,3lLHpTOJ11tWiUNGYN14gt,2020-07-13,https://i.scdn.co/image/ab67616d0000b273af865889727087bf5652aae3,62,259906
+2,Colbert,Pivot Gang,1vlQ6COEz1AXKMTZYlbHdQ,0kDgxQlVYVecF6MCNWJTYE,2019-04-19,https://i.scdn.co/image/ab67616d0000b273fda3804879d43b0ea4a9daba,45,213718
+3,Self,Noname,0nKiPnnqn6bfn8sPOZJGs8,1EpyA68dKpjf7jXmQL88Hy,2018-09-14,https://i.scdn.co/image/ab67616d0000b273b182a9b2b2904cbbcfe41d4e,60,94932
+4,SOMETHING FROM NOTHIN' (feat. Rich The Kid),ADÉ,37pqoamiQVw95UEiiE0viQ,5pDY9dgZO8O1yNZDARb62q,2019-02-15,https://i.scdn.co/image/ab67616d0000b273f0d04f55ec62c4c52733b927,39,155189
+5,Follow God,Kanye West,2QpGZOhTCHHiKmpSO9FW4h,5K4W6rqBFWDnAN6FQUkS6x,2019-10-25,https://i.scdn.co/image/ab67616d0000b2731bb797bbfe2480650b6c2964,76,104591
+6,Sober,Childish Gambino,5NhlpQ6BOIz3S5welptk1W,73sIBHcqh3Z3NyqHKZ7FOL,2014-10-03,https://i.scdn.co/image/ab67616d0000b2737206597364af87adb3377b0e,73,252026
+7,Joyride,Kevin Abstract,7t97jbSsGY54ULs52xAV5a,07EcmJpfAday8xGkslfanE,2019-04-25,https://i.scdn.co/image/ab67616d0000b273595101c281d7e229e1f0e6c4,53,216070
+8,"Lockdown (feat. JID, Noname & Jay Rock) - Remix",Anderson .Paak,7HtNRW16rKIWHaHIoRWUbw,3jK9MiCrA42lLAdMGUZpwa,2020-08-07,https://i.scdn.co/image/ab67616d0000b2738d54bda9af74a20244570ec0,67,267040
+9,Her,Majid Jordan,6GatnDEhYQLOdRzdVbJaky,4HzKw8XcD0piJmDrrPRCYk,2014-07-17,https://i.scdn.co/image/ab67616d0000b27328213820cb7bb6beee668afa,63,300728
+10,Cave Me In,Gallant,79ptYtWnpAnsQutzg2xSFk,7wFDo161xYdeaiLz3KIHoM,2017-01-26,https://i.scdn.co/image/ab67616d0000b27373a3cd1f607ebcab01f219bc,53,214158
+11,Diddy Bop (feat. Cam O'bi & Raury),Noname,6JvfBzqZmSiEG5MjM7OcSY,1EpyA68dKpjf7jXmQL88Hy,2016-08-12,https://i.scdn.co/image/ab67616d0000b273e9ef4d0bab9c9bf9ef5d3f36,63,208000
+12,Come Home (feat. André 3000),Anderson .Paak,6RpunyUP44SDweJPDScLSF,3jK9MiCrA42lLAdMGUZpwa,2019-04-12,https://i.scdn.co/image/ab67616d0000b2733d5b8fe604275dfab677bd0d,61,266812
+13,The Other Side,Hugh Jackman,2cKovq3l6OJjhVVDbVKOsr,5F1aoppMtU3OMiltO8ymJ2,2017-12-08,https://i.scdn.co/image/ab67616d0000b273128057b40732c042c86de1dd,73,214373
+14,The Greatest Show,Hugh Jackman,4ylWMuGbMXNDgDd8lErEle,5F1aoppMtU3OMiltO8ymJ2,2017-12-08,https://i.scdn.co/image/ab67616d0000b273128057b40732c042c86de1dd,75,302146
+15,Come Alive,Hugh Jackman,5xNUR50KxswPRAvx7S163g,5F1aoppMtU3OMiltO8ymJ2,2017-12-08,https://i.scdn.co/image/ab67616d0000b273128057b40732c042c86de1dd,71,225933
+16,Rewrite The Stars,Zac Efron,65fpYBrI8o2cfrwf2US4gq,6U1dBXJhC8gXFjamvFTmHg,2017-12-08,https://i.scdn.co/image/ab67616d0000b273128057b40732c042c86de1dd,76,217440
+17,A Million Dreams,Ziv Zaifman,0RoA7ObU6phWpqhlC9zH4Z,2cQr2KbzdRtIFlfbHGnNsL,2017-12-08,https://i.scdn.co/image/ab67616d0000b273128057b40732c042c86de1dd,75,269453
+18,The Other Side,Hugh Jackman,2cKovq3l6OJjhVVDbVKOsr,5F1aoppMtU3OMiltO8ymJ2,2017-12-08,https://i.scdn.co/image/ab67616d0000b273128057b40732c042c86de1dd,73,214373
+19,A Million Dreams (Reprise),Austyn Johnson,66y7x28jXOPrcmu3D5Zjh6,6Y20PijIkUoCtuvtkz37dO,2017-12-08,https://i.scdn.co/image/ab67616d0000b273128057b40732c042c86de1dd,66,60453
+20,Tightrope,Michelle Williams,0GVuLQtPXFaL18ijEOqoAa,2LAqcqAQ8KPTsl1HBgBrqM,2017-12-08,https://i.scdn.co/image/ab67616d0000b273128057b40732c042c86de1dd,69,234360
+21,This Is Me,Keala Settle,45aBsnKRWUzhwbcqOJLwfe,7HV2RI2qNug4EcQqLbCAKS,2017-12-08,https://i.scdn.co/image/ab67616d0000b273128057b40732c042c86de1dd,77,234706
+22,The Greatest Show,Hugh Jackman,4ylWMuGbMXNDgDd8lErEle,5F1aoppMtU3OMiltO8ymJ2,2017-12-08,https://i.scdn.co/image/ab67616d0000b273128057b40732c042c86de1dd,75,302146
+23,Come Alive,Hugh Jackman,5xNUR50KxswPRAvx7S163g,5F1aoppMtU3OMiltO8ymJ2,2017-12-08,https://i.scdn.co/image/ab67616d0000b273128057b40732c042c86de1dd,71,225933
+24,From Now On,Hugh Jackman,3IkWmgGsXbsafrunwPojXO,5F1aoppMtU3OMiltO8ymJ2,2017-12-08,https://i.scdn.co/image/ab67616d0000b273128057b40732c042c86de1dd,72,349560
+25,Come Again,MASARO,6kQV1SgXAXXw2YtBnMeyNv,13Gxb7d1eiQFoZEDy2HcBX,2020-08-13,https://i.scdn.co/image/ab67616d0000b273a191273408766e31081ece7a,14,99559
+26,If Only,Yugo Ease,4H81g6tEZdLPkeP8ANMJBg,3lm53S8BFfxuEVL7Nxn7FJ,2020-07-03,https://i.scdn.co/image/ab67616d0000b2735267eae30be59083fce86d6b,31,104182
+27,Morning Steps,Lively Rhymes,5z9YljuHcRfG76Pb5Yclb1,5uuJ6BtUscRMOJduZM48pz,2020-04-17,https://i.scdn.co/image/ab67616d0000b27313aba2c366c09f59d5386c28,40,181744
+28,Disco A,Oh Shu,3w6HHJ3eWazjQoaDYDzpn3,75XDEXxePvX7Hx4T3rUlVS,2020-06-17,https://i.scdn.co/image/ab67616d0000b273af97bf68d4fb0869d1f9ec5d,34,122548
+29,ame,babaroa,3Aof4M4zDeX2KPORAHfKFH,7AIZziu2N7IegfZyEPoQp7,2020-07-08,https://i.scdn.co/image/ab67616d0000b2732fec7b80ecc70f3a20cdf533,29,291000
+30,Universal Grammar,Eccy,1btMhHpEB4OvHpKFePAxqa,7uld07kmI7qKWujYC7dnbO,2020-04-03,https://i.scdn.co/image/ab67616d0000b273ab6ef5438b0d48bf8a681a6f,37,114800
+31,mist,DJ Ryow a.k.a. Smooth Current,1CWrAdwuNGPXvDh8mgKARi,11TpYQQbNIsB5W9dvakmjy,2020-08-14,https://i.scdn.co/image/ab67616d0000b273c984c38538d1f926a3954b11,18,99440
+32,Luv,GORO KUMAI,1tJa54bWcdqb2kawGtd7ZB,41lxUXDzSD0mjAnHOgbXDR,2020-05-01,https://i.scdn.co/image/ab67616d0000b2737b54d28e998b62b02246f0bf,36,87096
+33,Gypsy Woman,SMOKIN’theJAZZ,615Os9s5deQT7fOQku5grC,2EPBUwyVFGqahuZ4TK150I,2020-07-22,https://i.scdn.co/image/ab67616d0000b273da73ac94965ab861b9964eeb,35,224000
+34,When the neon sign turns on,Takayuki Hashiguchi,28YE296IpnuNi3nJ2l11jn,18eJdTU5Sepx9LX7KHZv1k,2020-08-14,https://i.scdn.co/image/ab67616d0000b273c8254aa49d120e07e366d5a5,11,113000
+35,Who,Hama,35solA4AqWqV0shqbmrlXi,2mkZla5mSMjsk6BRgWGOHr,2020-08-07,https://i.scdn.co/image/ab67616d0000b273b6cb850ff1de10710a46cad5,23,174665
+36,Cows In The Distance,Minthaze,5UD0l9bmyi6cILD4nxIcYV,0GDuz9Xe0BQHtO6uEOHm1v,2020-06-05,https://i.scdn.co/image/ab67616d0000b273ee88e20ae987956d85471332,45,116959
+37,Man In The Mirror,BIG-8,6W5nQGTnPbIOvp8NT9354E,3el2MXxfHsfgn4sDDSvPog,2020-06-08,https://i.scdn.co/image/ab67616d0000b2730c8a47390e6b2af7fec2dfc8,34,95454
+38,Good song,SPECIAL OTHERS,1pdMs8HUL8udZMqbUaBtd6,4642raFccEF58fHRtJSsc5,2020-05-13,https://i.scdn.co/image/ab67616d0000b2733ee6c8e4201ab080f6f558e3,41,202733
+39,Soul Finding,Mujo,27fX7qVg3MCQ6DEqgB4Rro,0vg08N1z9G9LrGLkG1nNDS,2020-06-05,https://i.scdn.co/image/ab67616d0000b2739e8510d7eaeb4517326697f3,52,101663
+40,Baby Since I Got You,Yaboy,7hAdCAQps5pBHyGE6RIWhW,261tfDi8O7e45yOgAiukDl,2020-03-28,https://i.scdn.co/image/ab67616d0000b27387e2f0e53772e5a00832cd0f,38,138890
+41,Graffiti,sakamoto junnosuke,4XP62rjfnBLoRMe3C8d8X9,79CYOq7U0oNlU4H8kXUj5v,2020-07-24,https://i.scdn.co/image/ab67616d0000b2738c3b866096dcdbee66c8d421,32,269120
+42,No Way,Mujo,3u0hOeE9iTeI0PsvvSv7DL,0vg08N1z9G9LrGLkG1nNDS,2020-06-12,https://i.scdn.co/image/ab67616d0000b2733e6e88efbdb180fb826047c6,47,123326
+43,Grandeur,Shinjuku Jumpshot,0CjXWn8u6fg9z82AIuqW0L,3Tssruxt0wSeVhuGQzrpGx,2020-06-05,https://i.scdn.co/image/ab67616d0000b273887150dd31be1f1d3021662b,37,130768
+44,be again,Bugseed,61DaKefyephvATjlpyjU9C,0ObliAtls0po56kVnacsOd,2020-04-10,https://i.scdn.co/image/ab67616d0000b273bccc6d63dbd19ebcde884697,40,163721
+45,Helpless,John Mayer,701DK0It9f7iurRnzKvF0y,0hEurMDQu99nJRq8pTxO14,2017-04-14,https://i.scdn.co/image/ab67616d0000b273c6bfaf942ed981d5c4c922e4,60,249120
+46,Emoji of a Wave,John Mayer,5ddXMXmXZ2FN4iliTG20nO,0hEurMDQu99nJRq8pTxO14,2017-04-14,https://i.scdn.co/image/ab67616d0000b273c6bfaf942ed981d5c4c922e4,62,239666
+47,Heartbreak Warfare,John Mayer,4gs07VlJST4bdxGbBsXVue,0hEurMDQu99nJRq8pTxO14,2009-11-13,https://i.scdn.co/image/ab67616d0000b2731e3dbe4453ed61633c472fbe,65,269720
+48,Why Georgia,John Mayer,1c7UYTut2SBOPq64o2t0uN,0hEurMDQu99nJRq8pTxO14,2001-08-16,https://i.scdn.co/image/ab67616d0000b2738848d57cbfa7751e028f4dc9,66,268973
+49,In the Blood,John Mayer,77Y57qRJBvkGCUw9qs0qMg,0hEurMDQu99nJRq8pTxO14,2017-04-14,https://i.scdn.co/image/ab67616d0000b273c6bfaf942ed981d5c4c922e4,65,243666

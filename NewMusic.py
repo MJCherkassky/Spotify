@@ -55,7 +55,7 @@ if token:
     for entry in artist_ids:
         related_artists = sp.artist_related_artists(str(entry))['artists']
         for item in related_artists:
-            related_ids.append(item['id'])
+            # related_ids.append(item['id'])
             new_artist_suggestions_by_artist.append(item['name'])
 
 
@@ -79,10 +79,37 @@ new_songs_for_playlist=[]
 ## For each artist in artists_to_try, their top song to a playlist
 for name in artists_to_try:
     new_songs_for_playlist.append(sp.search(q=name, limit=1, type='track')['tracks']['items'][0]['id'])
-new_songs = new_songs_for_playlist[:100]
+new_songs = new_songs_for_playlist[:25]
 time = date.today().strftime("%d/%m/%Y")
 new_playlist_id = sp.user_playlist_create(user=username, name=f"Scraped {time}", public=True, description= "I scraped my own Spotify API data to generate this playlist based off artists related to my recently played music")['id']
 sp.user_playlist_add_tracks(user=username, playlist_id = new_playlist_id, tracks = new_songs)
 
-##Full list of suggested artists for each song_id
-MyMusicDF.to_csv("RecentlyPlayed.csv", sep=',')
+
+## Get new music data and push to SQL database ##
+
+RecommendedSongName=[]
+
+RecommendedArtistData={}
+
+RecommendedMusicData=sp.playlist_tracks(new_playlist_id)
+for i in RecommendedMusicData['items'][0]['track']['artists']:
+    pp.pprint(i)
+
+
+
+
+RecommendedMusicData['items'][0]['track']['name']
+RecommendedMusicData['items'][0]['track']['duration_ms']
+RecommendedMusicData['items'][0]['track']['popularity']
+RecommendedMusicData['items'][0]['track']['explicit']
+RecommendedMusicData['items'][0]['track']['id']
+RecommendedMusicData['items'][0]['track']['album']['images'][0]['url']
+
+# for i in range(len(RecommendedMusicData['items'][0]['track']['album']['artists'])):
+#     RecommendedArtistData.update(RecommendedMusicData['items'][0]['track']['album']['artists'][i]['name'])
+#     RecommendedArtistData.update(RecommendedMusicData['items'][0]['track']['album']['artists'][i]['id'])
+#     RecommendedArtistData.update(RecommendedMusicData['items'][0]['track']['album']['artists'][i])
+
+
+
+# MyMusicDF.to_csv("RecentlyPlayed.csv", sep=',')
